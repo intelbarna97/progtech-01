@@ -1,0 +1,8 @@
+C:\Users\intel\source\repos\Mobilephone\Mobilephone\bin\Debug\Mobilephone.exe.config
+C:\Users\intel\source\repos\Mobilephone\Mobilephone\bin\Debug\Mobilephone.exe
+C:\Users\intel\source\repos\Mobilephone\Mobilephone\bin\Debug\Mobilephone.pdb
+C:\Users\intel\source\repos\Mobilephone\Mobilephone\obj\Debug\Mobilephone.csproj.AssemblyReference.cache
+C:\Users\intel\source\repos\Mobilephone\Mobilephone\obj\Debug\Mobilephone.csproj.SuggestedBindingRedirects.cache
+C:\Users\intel\source\repos\Mobilephone\Mobilephone\obj\Debug\Mobilephone.csproj.CoreCompileInputs.cache
+C:\Users\intel\source\repos\Mobilephone\Mobilephone\obj\Debug\Mobilephone.exe
+C:\Users\intel\source\repos\Mobilephone\Mobilephone\obj\Debug\Mobilephone.pdb
